@@ -1,0 +1,25 @@
+body{
+    background-color: #007450;
+    text-align: center;
+
+}
+.login{
+    float: none;
+    margin: 25px auto;
+    padding: 20px ;
+    background-color: #25a809;
+    border-radius: 28px;
+}
+button{
+    background-color: #00D0C0;
+    width: 10%;
+    border-radius: 15px;
+}
+#descubrir_palabra{
+    letter-spacing: 5px;
+    font-size: 24px;
+    
+}
+#nombre_j1,#puntos_j1,#nombre_j2,#puntos_j2{
+    display: inline-block;
+}
